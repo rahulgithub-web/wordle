@@ -1,70 +1,59 @@
-# Getting Started with Create React App
+## Wordle Game
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<div align="centre">
+    <b>dont contribute in this repo, contribute only in below mentioned repo</b>
+</div>
 
-## Available Scripts
+# Special Note For Everyone
+```py
+'''
+always make more then 4 pull request
+lets you have made only 4 pull request to different projects
+but one project is excluded from hackoctoberfest event then your pull request will not be count and 
+then you have remains 3 valid pull request if these projects is not excluded.
+if you fail to make 4 pull request then you cant get swags or t-shirts.
 
-In the project directory, you can run:
+i will recommend you make pull request to your own repo which is very very saffest side for you..
+keep in mind that repo has hacktoberfest topic..
+'''
+```
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+<p align="center">
+    <a href="https://hacktoberfest.digitalocean.com/">
+        <img src="https://raw.githubusercontent.com/keshavsingh4522/hacktoberfest2021/35fc6060c5ddead5792f29a2437fea160dbe9804/Assets/logo-hacktoberfest-full.f42e3b1.svg" width="30%">
+    </a>
+</p>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<h1 align="center"> Hacktoberfest 2021 🎉</h1>
 
-### `npm run build`
+<div align="center">
+  
+<img src="https://img.shields.io/badge/hacktoberfest-2021-blueviolet" alt="Hacktober Badge"/>
+ <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
+ <a href="https://github.com/keshavsingh4522" ><img src="https://img.shields.io/badge/Contributions-welcome-violet.svg?style=flat&logo=git" alt="Contributions" /></a>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<a href="https://github.com/keshavsingh4522/hacktoberfest2021/pulls"><img src="https://img.shields.io/github/issues-pr/keshavsingh4522/hacktoberfest2021" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/keshavsingh4522/hacktoberfest2021/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/keshavsingh4522/hacktoberfest2021?color=2b9348"></a>
+<a href="https://github.com/keshavsingh4522/hacktoberfest2021/blob/master/LICENSE"><img src="https://img.shields.io/github/license/keshavsingh4522/hacktoberfest2021?color=2b9348" alt="License Badge"/></a>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+</div>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### 🗣 Hacktoberfest encourages participation in the open source community, which grows bigger every year. Complete the 2021 challenge and earn a limited edition T-shirt.
 
-### `npm run eject`
+📢 **Register [here](https://hacktoberfest.digitalocean.com) for Hacktoberfest and make four pull requests (PRs) between October 1st-31st to grab free SWAGS 🔥.**
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+> Upload your code in this repository to particular section if folder is not present then create folder.
+> some more repos for contribution
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+| Repository                                                  | Issues                                                                                                                                                           | Pull Requests                                                                                                                                                     | Forks  
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+>Trying to make a wordle game in Reactjs please suggest me where i need to work to also you can contribute in this project.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<div align="center">
+<a href="https://github.com/rahulgithub-web"><img src="https://dailynorthwestern.com/wp-content/uploads/2022/01/WORDLE-Janna-Lee-900x588.png" alt="wordle"/></a>
+</div>
